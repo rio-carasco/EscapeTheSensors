@@ -1,5 +1,6 @@
 # EscapeTheSensors
-For a thoroughly researched paper on this model and algorithm, please visit the "Escape the Sensors" paper in the 'main' section.
+For a thoroughly researched paper on this model and algorithm, please visit the "
+Escape_The_Sensors-Research_Project_Masters.pdf" paper in the 'main' section.
 
 ## Overview
 
