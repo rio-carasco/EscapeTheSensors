@@ -5,6 +5,12 @@ For a thoroughly researched paper on this model and algorithm, please visit the 
 
 This repository contains the implementation of a Sensor Evasion Algorithm. The algorithm is designed to find an optimal path between a start and end point while minimizing the probability of detection by a set of sensors.
 
+## Versions
+
+- **Real Terrain Version**: `EscapeTheSensors-RealTerrain.py` allows you to upload real terrain data to model a path on.
+- **Function Landscape Version**: `EscapeTheSensors-FunctionLandscape.py` uses a function to map the terrain.
+- **2D Landscape Version**: `EscapeTheSensors-2D.py` operates on a 2D landscape.
+
 ## Dependencies
 
 - Python 3.x
