@@ -4,7 +4,7 @@ Escape_The_Sensors-Research_Project_Masters.pdf" paper in the 'main' section.
 
 ## Overview
 
-This repository contains the implementation of a Sensor Evasion Algorithm. The algorithm is designed to find an optimal path between a start and end point while minimizing the probability of detection by a set of sensors.
+This repository contains the implementation of a Sensor Evasion Algorithm. The algorithm is designed to find an optimal path between a start and end point while minimising the probability of detection by a set of sensors.
 
 ## Versions
 
@@ -29,9 +29,9 @@ The algorithm uses Simulated Annealing to find the optimal path. It considers th
 
 ## Usage
 
-1. **Initialization**: Set the start and end points, and the positions of the sensors.
+1. **Initialisation**: Set the start and end points, and the positions of the sensors.
 2. **Run Simulated Annealer**: This will return the best state, which is the optimal path, and the best energy, which is the minimum detection probability.
-3. **Visualization**: The algorithm provides functions to visualize the path and the energy states.
+3. **Visualisation**: The algorithm provides functions to visualise the path and the energy states.
 
 ## Functions
 
@@ -40,7 +40,7 @@ The algorithm uses Simulated Annealing to find the optimal path. It considers th
 - `LineOfSightResistance(Position, Sensor)`: Calculates the line-of-sight resistance between a sensor and a point.
 - `TotalT_ThreshCalc(Start, End, Min_Speed)`: Calculates the total time threshold.
 - `RunAnnealer(Initial_temp)`: Runs the Simulated Annealing algorithm.
-- `Visualise(Iter_Points, Iter_Speeds, Iter_E, slicing)`: Visualizes the path and energy states.
+- `Visualise(Iter_Points, Iter_Speeds, Iter_E, slicing)`: Visualises the path and energy states.
 
 ## Author
 
